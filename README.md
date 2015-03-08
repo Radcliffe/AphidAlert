@@ -1,5 +1,4 @@
 # Aphid Alert Data
-## 1992-1994, 1998-2003
 
 This repository contains aphid trap capture data that was
 collected for the Aphid Alert project, which was led by
